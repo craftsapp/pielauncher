@@ -4,6 +4,13 @@
 			{
 				"name": "Wallpaper 1",
 				"author": "Frome Internet",
+				"url": "https://raw.githubusercontent.com/craftsapp/pielauncher/master/wallpaper/01.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 1",
+				"author": "Frome Internet",
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/wallpaper/03.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
