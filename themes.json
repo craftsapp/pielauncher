@@ -2,6 +2,12 @@
 	"status": 1,
 	"data": [
 		{
+			"themeName": "Unlock Clock Wallpaper",
+			"packageName": "com.xappteam.unlock.clock",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/app_unlock_clock.png",
+			"iconURL": ""
+		},
+		{
 			"themeName": "Lemon Line Icon Pack",
 			"packageName": "me.xdesignteam.iconpack.lemonline",
 			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/lemonline_ad.jpg",
